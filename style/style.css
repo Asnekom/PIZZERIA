@@ -204,7 +204,7 @@
 
 .header_text {
     font-size: 18px;
-    color: var(--white);
+    color: darkgray;
     line-height: 13px;
     margin-bottom: 68px;
 }
