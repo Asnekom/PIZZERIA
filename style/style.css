@@ -8,6 +8,7 @@
     --m400: 'Montserat Regular';
     --m700: 'Montserat Bold';
     --m900: 'Montserat Black';
+    --darkgray: #a9a9a9;
     --white: #ffffff;
     --green_light: #68bf3b;
     --linear: linear-gradient(to bottom, #6ad017,#3d8701);
@@ -204,7 +205,7 @@
 
 .header_text {
     font-size: 18px;
-    color: darkgray;
+    color: var(--darkgray);
     line-height: 13px;
     margin-bottom: 68px;
 }
